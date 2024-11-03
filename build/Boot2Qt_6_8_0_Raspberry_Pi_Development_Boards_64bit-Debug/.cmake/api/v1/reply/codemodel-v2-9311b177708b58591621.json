@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-66a5e26c8c0b9c4dc9e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "master",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "master::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-master-Debug-8f36918f957a5761382c.json",
+					"name" : "master",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "master_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-master_autogen-Debug-3b402e7e070a55753ba7.json",
+					"name" : "master_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "master_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-master_autogen_timestamp_deps-Debug-be9e4773db46880e63c2.json",
+					"name" : "master_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/C-C++ Projects/master/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Debug",
+		"source" : "D:/Projects/C-C++ Projects/master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

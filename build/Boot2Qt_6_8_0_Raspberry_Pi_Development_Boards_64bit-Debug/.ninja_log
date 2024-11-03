@@ -1,0 +1,10 @@
+# ninja log v5
+6	690	7523534865010905	master_autogen/timestamp	3c716614b6794589
+6	690	7523534865010905	master_autogen/mocs_compilation.cpp	3c716614b6794589
+6	690	7523534865010905	D:/Projects/C-C++ Projects/master/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Debug/master_autogen/timestamp	3c716614b6794589
+6	690	7523534865010905	D:/Projects/C-C++ Projects/master/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Debug/master_autogen/mocs_compilation.cpp	3c716614b6794589
+690	2995	7523534889006867	CMakeFiles/master.dir/master_autogen/mocs_compilation.cpp.o	5cf7a08db35b4b00
+697	3035	7523534889391359	CMakeFiles/master.dir/main.cpp.o	73b7758c7cee6fa0
+702	3083	7523534889878661	CMakeFiles/master.dir/mainwindow.cpp.o	54d8a44dde02afc0
+3083	3675	7523534895763808	master	25115cd4822a174d
+3675	3750	0	CMakeFiles/install.util	1a13b7fa9a89db8d
